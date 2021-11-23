@@ -147,7 +147,7 @@ Author URI: http://dev7studios.com
 
 
 /* Mobile styles */
-/*#wrappermobile {width:100%; margin:0px auto;}
+#wrappermobile {width:100%; margin:0px auto;}
 #wrappermobile .slider-wrapper, #wrappermobile .slider-wrapper .nivoSlider {width:100%;}
 #wrappermobile .slider-wrapper .nivoSlider img{width:100%;}
 #wrappermobile #sitetitle {margin:20px auto 0; padding:0; text-align:center;float:none;}
@@ -157,6 +157,6 @@ Author URI: http://dev7studios.com
 #wrappermobile #header-image {height:100px;}
 #wrappermobile #content {padding:15px;}
 #wrappermobile #footer{background-color:#f2f2f2;padding:10px 30px;}
-#wrappermobile #footer p{font-size:0.6em;margin:0;padding:0;}*/
+#wrappermobile #footer p{font-size:0.6em;margin:0;padding:0;}
 
 
